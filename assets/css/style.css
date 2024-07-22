@@ -1,0 +1,113 @@
+/* GENERAL */
+
+:root{
+    --blue: #1A87C0;
+    --black: #222;
+    --white: #eee;
+}
+
+html{
+    font-family: "Roboto", sans-serif;
+    color: #222;
+    background-color: #eee;
+}
+
+h1, h2, h3{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+h2{
+    margin-bottom: -6px;
+}
+
+h3{
+    color: var(--blue);
+}
+
+p{
+    letter-spacing: 0.5px;
+}
+
+/* NAVBAR */
+
+#navbar ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: var(--black);
+    width: 100%;
+}
+
+#navbar li{
+    float: left;
+}
+
+#navbar li a{
+    display: block;
+    color: var(--white);
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#navbar li a:hover{
+    color: var(--blue);
+}
+
+/* HEADER */
+
+#hero{
+    text-align: center;
+}
+
+#hero img{
+    border-radius: 100%;
+}
+
+#hero p{
+    color: var(--blue);
+    font-weight: 500;
+}
+
+/* MAIN */
+
+#contenedor-main{
+    margin: auto;
+    width: 900px;
+}
+
+#contenedor-main h3{
+    margin-top: 40px;
+}
+
+/* SECTION 1 */
+
+#about p{
+    font-weight: 300;
+}
+
+/* SECTION 2 */
+
+#education ul li{
+    font-weight: 500;
+}
+
+#education ul li p{
+    font-weight: 300;
+}
+
+/* SECTION 3 */
+
+#work-experience ul li{
+    font-weight: 500;
+}
+
+#work-experience ul li p{
+    font-weight: 300;
+}
+
+/* FOOTER */
+
+#footer{
+    margin-top: 60px;
+    text-align: center;
+}
