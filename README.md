@@ -1,7 +1,7 @@
 
-# Landing Page - Viajes Chile
+# Mi Curriculum Vitae en HTML
 
-Desafío del Módulo 2 | Sección 1 | Día 3 | _Mi Curriculum Vitae en HTML_ del curso _**Desarrollo de aplicaciones FRONT-END TRAINEE V2.0**_
+Desafío del Módulo 2 | Sección 1 | Día 3 | del curso _**Desarrollo de aplicaciones FRONT-END TRAINEE V2.0**_
 
 ## Authors
 
